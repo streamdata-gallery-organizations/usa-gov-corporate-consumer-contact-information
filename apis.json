@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - USA.Gov Corporate Consumer Contact Information",
+	"description": "This is a repository of usa.gov corporate consumer contact information APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/usa-gov-corporate-consumer-contact-information.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://usa-gov-corporate-consumer-contact-information.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "USA.Gov Corporate Consumer Contact Information",
+			"x-api-slug": "usa-gov-corporate-consumer-contact-information",
+			"description": "We make the Corporate Consumer Contact listing found in the Consumer Action Handbook (PDF) available via a REST API. The API programmatically returns all of the information contained in the directory, or you can query the API to return just a subset of the available information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usa-gov-logo.png",
+			"humanURL": "https://github.com/usagov/Corporate-Consumer-Contact-API-Documentation",
+			"baseURL": "https://www.usa.gov/api/USAGovAPI/",
+			"tags": "USA.Gov Corporate Consumer Contact Information",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/usa-gov-corporate-consumer-contact-information/master/_listings/usa-gov-corporate-consumer-contact-information/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "USA.Gov Corporate Consumer Contact Information",
+	"include": [
+		{
+			"name": "USA.Gov Corporate Consumer Contact Information",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/usa-gov-corporate-consumer-contact-information/master/_listings/usa-gov-corporate-consumer-contact-information/apis.yaml"
+		}
+	]
+}
